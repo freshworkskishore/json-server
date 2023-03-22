@@ -3,10 +3,10 @@
         {
             "products": [
                 {
-                    "productName": "Sample"
+                    "productName": "Sample Product Name"
                 }
             ],
-            "orderId": ""
+            "orderId": "Sample Product Alias"
         }
     ]
 }
