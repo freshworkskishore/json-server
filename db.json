@@ -19,5 +19,9 @@
             "orderId": "2"
         }
     ],
-    "products": [{"id":1}]
+    "products": [
+        {
+            "id": 1
+        }
+    ]
 }
