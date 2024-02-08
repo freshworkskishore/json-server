@@ -1,33 +1,6 @@
-{
-    "subOrder": [
-        {
-            "products": [
-                {
-                    "productName": "Product 1",
-                    "orderId": "11"
-                }
-            ],
-            "orderId": "1"
-        },
-        {
-            "products": [
-                {
-                    "productName": "Product 2",
-                    "orderId": "12"
-                }
-            ],
-            "orderId": "2"
-        }
-    ],
-    "products": [
-        {
-            "id": 1
-        }
-    ],
-    "sources": [
-        {
-            "file_hash": "aiddrdsstb",
-            "url": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
-        }
-    ]
-}
+[
+    {
+        "file_hash": "aiddrdsstb",
+        "url": "https://www.tutorialspoint.com/javascript/javascript_tutorial.pdf"
+    }
+]
